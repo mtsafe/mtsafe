@@ -4,4 +4,5 @@
 
 > "Welcome back my friends, to the show that never ends." -- ELP
 
-Smashing with code!
+### 2021: Smashing with Code!
+2020: Hacktoberfest & JavaScriptmas
