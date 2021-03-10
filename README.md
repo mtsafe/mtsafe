@@ -5,5 +5,5 @@
 > "Welcome back my friends, to the show that never ends." -- ELP
 
 ### 2021: Smashing with Code!
-2020: Hacktoberfest & JavaScriptmas
+2020: Hacktoberfest & JavaScriptmas  
 2019: The GitHub Begins
