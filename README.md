@@ -6,3 +6,4 @@
 
 ### 2021: Smashing with Code!
 2020: Hacktoberfest & JavaScriptmas
+2019: The GitHub Begins
