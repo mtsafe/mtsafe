@@ -7,7 +7,7 @@
 > "Welcome back my friends, to the show that never ends." -- ELP
 
 ### 2023: Monsters of Code
-2022: Sabbatical
-2021: Smashing with Code!
+2022: Sabbatical  
+2021: Smashing with Code!  
 2020: Hacktoberfest & JavaScriptmas  
 2019: The GitHub Begins
