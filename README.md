@@ -1,6 +1,6 @@
 # mtsafe
 
-### [See my bio on Mad Scientist Web Design.](https://www.mswdtemplate.com/team.html#talent "The Team at Mad Scientist Web Design")
+### [See my bio on Mad Scientist Web Design.](https://madscientistwebdesign.com/team.html#talent "The Team at Mad Scientist Web Design")
 
 ![Godzilla: King of the Monsters](godzilla-400x176.jpg)
 
